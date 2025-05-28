@@ -1,0 +1,6 @@
+John Doe
+john.doe@example.com
+123-456-7890
+https://github.com/johndoe-example
+
+Experienced Python Developer with skills in Django, Flask, and SQL. I love coding in Python and JavaScript.

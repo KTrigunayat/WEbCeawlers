@@ -1,0 +1,6 @@
+Jane Smith
+jane.smith@example.com
+(987)654-3210
+https://github.com/janesmith-example
+
+Data Analyst skilled in R, Python, and SQL. Project on GitHub showcasing data visualization with Python.
